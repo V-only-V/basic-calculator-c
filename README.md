@@ -1,4 +1,6 @@
+![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
+
 # basic-calculator-c
 ##Basic Calculator in C
 
-img.png
+![This is an image](img.png)
